@@ -1,9 +1,9 @@
-LeetCode Question No:- 217
-Date: 21/12/2024
+//LeetCode Question No:- 217
+//Date: 21/12/2024
 
 //Brute Force In this Code//
 
- C- CODE:
+ //C- CODE:
 
 bool containsDuplicate(int* nums, int numsSize) {
     for ( int i=0; i<numsSize;i++){
@@ -20,4 +20,4 @@ bool containsDuplicate(int* nums, int numsSize) {
 }
 
 
-Note:- I had Brute Force in this Questions.
+//Note:- I had Brute Force in this Questions.
