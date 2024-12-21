@@ -1,8 +1,8 @@
-Date:- 21/12/2024
+//Date:- 21/12/2024
 
-LeetCode Question:- 1
+//LeetCode Question:- 1
 
-Code in C++ : 
+//Code in C++ : 
 
 class Solution {
 public:
@@ -23,4 +23,4 @@ public:
     }
 };
 
-# Time COmplexity is O(n^2). 
+//# Time COmplexity is O(n^2). 
