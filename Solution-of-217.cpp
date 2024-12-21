@@ -1,5 +1,5 @@
-My Approach:- 
-In C++ Code:- 
+//My Approach:- 
+//In C++ Code:- 
 
 class Solution {
 public:
@@ -22,8 +22,8 @@ public:
 };
 
 
-It runs effectively.
+//It runs effectively.
 
-# It has Time Complexity of O(nlogn). 
-Note :-  Using Sort.
+// # It has Time Complexity of O(nlogn). 
+//Note :-  Using Sort.
 
