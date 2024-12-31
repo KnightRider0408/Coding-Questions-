@@ -21,4 +21,4 @@ bool containsDuplicate(int* nums, int numsSize) {
 
 
 //Note:- I had Brute Force in this Questions.
-// Solution in next file.
+// Solution in the next file.
